@@ -1,2 +1,4 @@
 # MoneroBaseAwesome
-Awesome List of awesome base projects in the github.
+
+Awesome List of monero base projects in the github.
+
