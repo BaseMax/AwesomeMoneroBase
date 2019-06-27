@@ -47,4 +47,7 @@ Awesome List of monero base projects in the github.
 - https://github.com/bitcoinmono/bitcoinmono_monerobase
 - https://github.com/agioprojects/agiod
 - https://github.com/sebseb7/mon_test
+- https://github.com/ang-st/monero-regtest
+- https://github.com/TorreJohnson/xmr
+- https://github.com/agioprojects/agiod
 
