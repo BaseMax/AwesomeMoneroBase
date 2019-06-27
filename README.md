@@ -1,6 +1,6 @@
 # MoneroBaseAwesome
 
-Awesome List of monero base projects in the github.
+Awesome/Fork List of monero base projects in the github.
 
 ## First
 
