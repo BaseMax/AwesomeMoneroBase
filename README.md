@@ -2,6 +2,12 @@
 
 Awesome/Fork List of monero base projects in the github.
 
+### Monero
+
+The Monero Research Lab is an open forum where the community coordinates research into Monero cryptography, protocols, fungibility, analysis, and more. We welcome collaboration and contributions from outside researchers! Because not all Lab work and publications are distributed as traditional preprints or articles, they may be easy to miss if you are conducting literature reviews for your own Monero research.
+
+https://github.com/monero-project/monero
+
 ## First
 
 - https://github.com/enro-project/enro
